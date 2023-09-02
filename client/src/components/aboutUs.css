@@ -1,0 +1,9 @@
+.background{
+    background-image: url(https://images.pond5.com/parallax-animation-dense-forest-mountains-footage-170669463_prevstill.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.horizontal-line {
+    border-top: 3px solid rgb(224, 211, 211);
+  }

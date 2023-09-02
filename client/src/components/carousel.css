@@ -1,0 +1,8 @@
+.carousel-background{
+    background-image: url(http://localhost:3000/myUploads/1693256908632-436326158m028t0135_e_medical_icon_24aug22.jpg);
+    background-size: cover;
+    height: 100%;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-position: center;
+}

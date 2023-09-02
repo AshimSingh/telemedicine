@@ -1,0 +1,18 @@
+.banner{
+    width: 80%;
+    min-height: 125px;
+}
+.banner__card{
+    min-width: 250px;
+}
+.banner__img{
+    height: 80px;
+    width: 50%;
+}
+
+.banner__img img{
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
